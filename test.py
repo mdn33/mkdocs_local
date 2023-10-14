@@ -25,7 +25,7 @@ class MyClass:
 
     def method_a(self):
         """Print A!"""
-        print("A!")
+        print("A!")ssssss
 
     def method_b(self):
         """Print B!"""
