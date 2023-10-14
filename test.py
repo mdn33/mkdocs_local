@@ -1,0 +1,5 @@
+
+
+
+def stampa():
+    print('hell');
